@@ -1,27 +1,42 @@
-<div align="center">
-    <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
-    <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm EDGAR</h1>
-    <h4 align="center">An independent developer in constant learning.</h4>
+<div style="text-align: center">
+    <img 
+        width="100px" 
+        src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg"
+        align="center" alt="Github Readme Stats" 
+    />
+    <h1>Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif" alt="">, I'm EDGAR</h1>
+    <h4>An independent developer in constant learning.</h4>
 </div>
 
-<div align="center"> 
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+<div style="text-align: center"> 
+    <a href="https://1999azzar.github.io/1999AZZAR/">
+        <img  
+            src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+            alt="snake"
+        />
+    </a>
 </div>
-
 
 ### &nbsp;About me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I am currently studying Computer Science at the Universidad Mayor de San Andrés.\
-🌱 &nbsp;I am on my way to learn more about Artificial Intelligence, Embedded Systems, Real-Time Systems and Framework design for IOT devices like [ESP32](https://www.espressif.com/) and [RAPSBERRY PI PICO](https://www.raspberrypi.com/products/raspberry-pi-pico/).\
+🌱 &nbsp;I am on my way to learn more about Artificial Intelligence, Embedded Systems, Real-Time Systems and
+Framework
+design for IOT devices like [ESP32](https://www.espressif.com/)
+and [RAPSBERRY PI PICO](https://www.raspberrypi.com/products/raspberry-pi-pico/).\
 ✍️ &nbsp;In my free time, I dedicate myself to graphic design.\
-💬 &nbsp;Feel free to contact me for consultations and pro bono volunteering, or just to have an interesting conversation.\
+💬 &nbsp;Feel free to contact me for consultations and pro bono volunteering, or just to have an interesting
+conversation.\
 ✉️ &nbsp;You can send me an email to ealejor@fcpn.edu.bo. I will try to respond as soon as possible.
 
-<div align="center">
-<img align="center" width="200" height="200" src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/img/coding.gif" alt="Coding gif image" />
+<div style="text-align: center">
+    <img
+        width="200" 
+        height="200" 
+        src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/img/coding.gif" 
+        alt="Coding gif image" 
+    />
 </div>
 
 ### &nbsp;Technology stack
@@ -41,33 +56,46 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
+![Micropython](https://img.shields.io/badge/-Micropython-05122A?style=flat&logo=micropython)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
+![Electron](https://img.shields.io/badge/-Electron-05122A?style=flat&logo=electron)&nbsp;
+![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)&nbsp;
+![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)&nbsp;
+![Next](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
+![CSharp](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp)&nbsp;
+![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
+![Gradle](https://img.shields.io/badge/-Gradle-05122A?style=flat&logo=gradle)&nbsp;
+![CMake](https://img.shields.io/badge/-CMake-05122A?style=flat&logo=cmake)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![Debian](https://img.shields.io/badge/-Debian-05122A?style=flat&logo=debian)&nbsp;
+![Php](https://img.shields.io/badge/-Php-05122A?style=flat&logo=php)&nbsp;
+![Pycharm](https://img.shields.io/badge/-Pycharm-05122A?style=flat&logo=pycharm)&nbsp;
+![CLion](https://img.shields.io/badge/-CLion-05122A?style=flat&logo=clion)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
+![Inkscape](https://img.shields.io/badge/-Inkscape-05122A?style=flat&logo=inkscape)&nbsp;
+![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)&nbsp;
+![Intellij Idea](https://img.shields.io/badge/-IntellijIdea-05122A?style=flat&logo=intellijidea)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 
+### &nbsp;GitHub analysis
 
-### &nbsp;Github analysis
+<div style="text-align: center;">
 
-<p align="center">
-<a href="https://github.com/ealejor">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ealejor&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ealejor&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ealejor&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)](https://github.com/ealejor)
+[![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ealejor&layout=compact&langs_count=8&theme=algolia)](https://github.com/ealejor)
 
-
-
-
-
+</div>
 
 ### &nbsp;My social networks
 
-<div align="center">
- 
-   <a href="https://www.linkedin.com/in/edgar-alejo-755091291" target="_blank">
-       <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-   </a>
-    
-   <a href="https://x.com/EDG_Alejo?s=09" target="_blank">
-       <img src=https://img.shields.io/badge/x-%2300acee.svg?color=000000&style=for-the-badge&logo=x&logoColor=white alt=x style="margin-bottom: 5px;" />
-   </a>
+<div style="text-align: center;">
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-alejo-755091291)
+[![X Profile](https://img.shields.io/badge/x-%2300acee.svg?color=000000&style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/EDG_Alejo?s=09)
 
 </div>
+
