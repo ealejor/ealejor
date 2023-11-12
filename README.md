@@ -1,4 +1,4 @@
-<div style="text-align: center">
+<div align="center">
     <img 
         width="100px" 
         src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg"
@@ -8,7 +8,7 @@
     <h4>An independent developer in constant learning.</h4>
 </div>
 
-<div style="text-align: center"> 
+<div align="center"> 
     <a href="https://1999azzar.github.io/1999AZZAR/">
         <img  
             src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
@@ -30,7 +30,7 @@ and [RAPSBERRY PI PICO](https://www.raspberrypi.com/products/raspberry-pi-pico/)
 conversation.\
 ✉️ &nbsp;You can send me an email to ealejor@fcpn.edu.bo. I will try to respond as soon as possible.
 
-<div style="text-align: center">
+<div align="center">
     <img
         width="200" 
         height="200" 
@@ -83,7 +83,7 @@ conversation.\
 
 ### &nbsp;GitHub analysis
 
-<div style="text-align: center;">
+<div align="center">
 
 [![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ealejor&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)](https://github.com/ealejor)
 [![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ealejor&layout=compact&langs_count=8&theme=algolia)](https://github.com/ealejor)
@@ -92,7 +92,7 @@ conversation.\
 
 ### &nbsp;My social networks
 
-<div style="text-align: center;">
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-alejo-755091291)
 [![X Profile](https://img.shields.io/badge/x-%2300acee.svg?color=000000&style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/EDG_Alejo?s=09)
