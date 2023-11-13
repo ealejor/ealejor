@@ -104,11 +104,15 @@ conversation.\
 </div>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ealejor&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ealejor" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ealejor&show_icons=true&locale=en&theme=algolia&layout=compact" alt="ealejor" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ealejor&&theme=algolia&layout=compact" alt="ealejor" /></p>
+    <p>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ealejor&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ealejor" />
+    </p>
+    <p>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=ealejor&show_icons=true&locale=en&theme=algolia&layout=compact" alt="ealejor" />
+    </p>
+    <p>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ealejor&&theme=algolia&layout=compact" alt="ealejor" />
+    </p>
 </div>
 
 
@@ -186,7 +190,8 @@ conversation.\
     </p>
 </div>
 
-<h3 align="left">Date Base:</h3>
+
+- database management
 <div style="border: 1px solid #444444">
     <p align="left"> 
         <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
