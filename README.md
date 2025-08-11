@@ -27,7 +27,7 @@ and [RAPSBERRY PI PICO](https://www.raspberrypi.com/products/raspberry-pi-pico/)
 ✍️ &nbsp;In my free time, I dedicate myself to graphic design.\
 💬 &nbsp;Feel free to contact me for consultations and pro bono volunteering, or just to have an interesting
 conversation.\
-✉️ &nbsp;You can send me an email to ealejor@fcpn.edu.bo. I will try to respond as soon as possible.
+✉️ &nbsp;You can send me an email to ealejor.dev@gmail.com. I will try to respond as soon as possible.
 
 <div align="center">
     <img
